@@ -1,45 +1,48 @@
 # Employee-Analysis-Tableau-Project-
-This dashboard helps in understanding workforce distribution, hiring trends, and potential risk areas for better data-driven decision making.
-🔹 Key Insights (sabse important part 💯):
+
+I recently built an interactive Employee Analysis Dashboard using Tableau to gain meaningful insights into workforce data.
+
+🔹 Key Insights:
 
 📊 Total Employees: 20,000
-
-👨‍💼👩‍💼 Gender Distribution almost balanced:
+👨‍💼👩‍💼 Gender Distribution:
+Almost perfectly balanced
 Female: 10,014
 Male: 9,986
 
 📅 Hiring Trends:
-2024 me highest hiring: 6,480 employees
-2025 me sharp drop: 773 employees
-👉 Indicates hiring slowdown or strategy shift
+Highest hiring in 2024: 6,480 employees
+Sharp decline in 2025: 773 employees
+👉 Indicates a potential hiring slowdown or shift in strategy
 
 🏙️ City-wise Gender Insights:
-Almost all cities me 50-50 distribution
-Slight variations (e.g., Mumbai & Hyderabad me Female slightly higher)
+Most cities show near 50-50 distribution
+Slight variations observed (e.g., Mumbai & Hyderabad have slightly higher female representation)
 
 💰 Top Paid Employees:
 Highest salary: ₹5,15,119 (Ela Kapur)
-Top 5 employees salary comparison clearly visualized
+Clear comparison of top 5 highest-paid employees
 
 🏢 Department Analysis:
-Highest employees: Finance (3,388)
-Closely followed by HR & IT
-👉 Balanced workforce distribution across departments
+Highest employee count: Finance (3,388)
+Followed closely by HR and IT
+👉 Shows a well-balanced workforce across departments
 
-⚠️ Verification Failure:
-Some companies me higher failure count (e.g., Wali Ltd – 7 cases)
-👉 Potential risk area for HR compliance
+⚠️ Verification Failures:
+Some companies show higher failure counts (e.g., Wali Ltd – 7 cases)
+👉 Highlights potential HR compliance risks
 
 💼 Salary by Role:
 Manager: ₹370.50M (highest)
-Analyst, Lead, Executive all close range
-👉 Indicates structured salary hierarchy
+Analyst, Lead, and Executive roles are in a similar range
+👉 Indicates a structured salary hierarchy
 
 💻 Device Usage:
 Laptop: 50.20%
 Desktop: 49.80%
-👉 Almost equal tech distribution
+👉 Almost equal distribution of devices among employees.
 
-🔹 Tools Used:
-Tableau (Dashboard & Visualization)
-Excel (Data Cleaning & Preparation)
+Tableau :- (Dashboard & Visualization) 
+Excel :- (Data Cleaning & Preparation)
+
+I am continuously learning and building projects to strengthen my skills in Data Analytics.
